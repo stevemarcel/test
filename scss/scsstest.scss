@@ -1,0 +1,22 @@
+@import 'config';
+
+$pry__color: #c4c4c4;
+
+body{
+  background: $pry__color;
+  color: darken($color: #000000, $amount: 0);
+  .narbar{
+    background: red;
+    &-brand{
+      color: $pry__color;
+    }
+  }
+}
+@function test (){
+  @if(){
+
+  }
+  @else{
+
+  }
+}

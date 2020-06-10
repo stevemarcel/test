@@ -1,0 +1,23 @@
+@font-face {
+  font-family: test-font;
+  src: url('./fonts/Raleway-Regular.ttf');
+}
+@font-face {
+  font-family: test-font2;
+  src: url('./fonts/Staatliches-Regular.ttf');
+}
+
+/* body{
+  background: black;
+} */
+.par-1 {
+  font-family: test-font;
+}
+
+h1{
+  font-family: test-font2;
+}
+
+.form{
+  text-align: center;
+}

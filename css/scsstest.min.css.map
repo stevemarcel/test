@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,AAAA,CACC,UAAU,CAAE,UAAU,CACtB,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACV,ADAD,AAAA,IAAI,AAAA,CACF,UAAU,CAHC,OAAO,CAIlB,KAAK,CAAE,IAAmC,CAO3C,AATD,AAGE,IAHE,CAGF,OAAO,AAAA,CACL,UAAU,CAAE,GAAG,CAIhB,AARH,AAKI,IALA,CAKC,aAAM,AAAA,CACL,KAAK,CARE,OAAO,CASf",
+    "sources": [
+        "scss/scsstest.scss",
+        "scss/_config.scss"
+    ],
+    "names": [],
+    "file": "scsstest.min.css"
+}
